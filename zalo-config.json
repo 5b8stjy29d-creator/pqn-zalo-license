@@ -4,6 +4,11 @@
       "hwid": "40B7-180F-E5E6-C7CB",
       "expiresAt": 1825065844996,
       "signature": "dKyAGG2wqzUPZwRo1mSetJV2lOssGMKwwJX1e_AHp-fbeF3TKDXQzh5WSLN-6XZ5SyjmUYx9NHYJmhhl_IwLBw"
+    },
+    {
+      "hwid": "E2E0-0A01-7E57-0001",
+      "expiresAt": 1796129609784,
+      "signature": "RD6nwW9S7I9rwr1QsfWZ8ceU8pc1m3a4qBUo6Z-I3IGjy-Nw5ceZS-todi1Y_DOiGL112Ng3SoSxEnTL_cclCA"
     }
   ],
   "revoked": []
