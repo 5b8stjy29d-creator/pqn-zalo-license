@@ -9,6 +9,11 @@
       "hwid": "E2E0-0A01-7E57-0001",
       "expiresAt": 1796129609784,
       "signature": "RD6nwW9S7I9rwr1QsfWZ8ceU8pc1m3a4qBUo6Z-I3IGjy-Nw5ceZS-todi1Y_DOiGL112Ng3SoSxEnTL_cclCA"
+    },
+    {
+      "hwid": "F00D-0A01-7E57-0002",
+      "expiresAt": 1796130392345,
+      "signature": "Iic1a_e5b7pdNfavFkYYd9Zgq8cgu2NuNByO6PYaw2-gKCZ7VhehZCoWJHtfeaZ03Tc5tMQ2B8TsjJ7EwIziCA"
     }
   ],
   "revoked": []
