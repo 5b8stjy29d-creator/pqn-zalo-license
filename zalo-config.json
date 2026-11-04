@@ -64,6 +64,11 @@
       "hwid": "CAC0-EB64-38AE-79A0",
       "expiresAt": 1825309037332,
       "signature": "VkiFecx0_tnQl4KyhAJDYJ8Q_ycxLCdCx3cEdvrRuWLb-Rl83Var0rb4uUcXaF1uILFBpUAOMVPifSd1Xc7lCA"
+    },
+    {
+      "hwid": "31F5-1EAE-3274-3967",
+      "expiresAt": 1809327059981,
+      "signature": "2P4JG94EkT_ct3Gj0irnje7hekfyPNHCKtNFnHRkMzVfW_SshKED3E4pRP8atQo2zBACgU8wYM1UZVjBi-UwCg"
     }
   ],
   "revoked": [
