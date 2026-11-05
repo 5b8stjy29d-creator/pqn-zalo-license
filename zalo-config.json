@@ -94,6 +94,11 @@
       "hwid": "15DA-F861-5293-3BA7",
       "expiresAt": 1796438555373,
       "signature": "bu3L3Pf2kqEUgqplElqqnaxU1kz11QtFU27s9yxsvxlz7eOj0SbgWR0c_Q6O342VjxwsRDFGKl5pKY4gx7g_DQ"
+    },
+    {
+      "hwid": "19E0-BAA3-0AF1-041E",
+      "expiresAt": 1796471195800,
+      "signature": "KRMdN1sE0Wd5Mr_JdHIJbXxnblzRps8auUWe1qMuHjqYv7Pz4oPNzB5nNr-4lGnfqEdd9l_LmjYarZ0pNSo6BA"
     }
   ],
   "revoked": [
