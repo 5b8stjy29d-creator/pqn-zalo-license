@@ -119,6 +119,11 @@
       "hwid": "6C5F-EB93-9FE8-A2A7",
       "expiresAt": 1801717819664,
       "signature": "g67VIcgij9y4HO_35zfrGIj4c_erJxtTWEbU33l-ZKijq8CiWsV7CK_NQJMGOukzsiTi-3sAqvJwz7vTXIYbBg"
+    },
+    {
+      "hwid": "AF00-FDAC-B8FA-78C0",
+      "expiresAt": 1801719048395,
+      "signature": "XkB7bdppF53RweQEoYE-o0YXqEzVrGJ0JvIbY6kKCnEBgTD5BnIe3x5ABoF4wz5cDGbbRNcol_QIvxGXegn5Dw"
     }
   ],
   "revoked": [
