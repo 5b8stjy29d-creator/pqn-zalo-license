@@ -114,6 +114,11 @@
       "hwid": "C105-2777-BC1A-1830",
       "expiresAt": 1801716916937,
       "signature": "VrBXl_IzfogqURzkb0Gk5ToIT6kUJibcHBAJPY26x6H61ryEsjSS-McIh5R-xrPlFUmVuuX8hmtaelIA0YdVAw"
+    },
+    {
+      "hwid": "6C5F-EB93-9FE8-A2A7",
+      "expiresAt": 1801717819664,
+      "signature": "g67VIcgij9y4HO_35zfrGIj4c_erJxtTWEbU33l-ZKijq8CiWsV7CK_NQJMGOukzsiTi-3sAqvJwz7vTXIYbBg"
     }
   ],
   "revoked": [
