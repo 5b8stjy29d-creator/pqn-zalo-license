@@ -76,11 +76,6 @@
       "signature": "vR161P7hGK5ReTN05jo7L8jAGuMSM3uwJjn287Pdv3TdJiw_a4Pb2ELTT_V23Mbez5AL-Lw3V3HR7LhGhwblCA"
     },
     {
-      "hwid": "5BE2-E243-2EB1-FCEC",
-      "expiresAt": 1796381627529,
-      "signature": "S8tiYT5hWvwHfygh4ZPSEA8mh9h_yIj6_8jBcj0tsb448onxC43AvvER2Tsb3AIG6NvcN29VlqtHd6Y1o8JCCg"
-    },
-    {
       "hwid": "3C52-623D-B798-06A6",
       "expiresAt": 1801568166266,
       "signature": "Vx7Q4gosiKpvzsByr4_IlTBkGRALakdKFhmQLRD_afWqRQdKjF2347gWWaj1VQvfK1k_NZBPkM-ryVwxQP70CA"
@@ -139,6 +134,11 @@
       "hwid": "F797-7E0A-3911-28C0",
       "expiresAt": 1796869655854,
       "signature": "kfyjdAvA84tUwrKxHl2UGMM7mnVVFxgAOLQdHelix0v4vsum-Ij01ld2Ph1WbbgPBhOEaM7xi6GRERorZYexDA"
+    },
+    {
+      "hwid": "5BE2-E243-2EB1-FCEC",
+      "expiresAt": 1796874159894,
+      "signature": "C9y3HwvmoHmuOTt0Tf2vXLsjpLjv_5VxpgfDyeRSc6NBl-7lft6JEaMtfpAl0aPAWIsya4Gu-6_zBATH6QQtDA"
     }
   ],
   "revoked": [
