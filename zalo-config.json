@@ -154,6 +154,11 @@
       "hwid": "E1DE-AF48-BC44-65A8",
       "expiresAt": 1802165633594,
       "signature": "3EurmSLb8Wt2b-bpSLjHN0K6aOhhRotzkuXSA_BNBfrjuiHSxRMkqDU7KSVmfH1B4myTy6-T30cWtYPYNiCzDA"
+    },
+    {
+      "hwid": "9B1A-10B1-FB5D-20AD",
+      "expiresAt": 1796982237748,
+      "signature": "js1f_dRG-BN37w7L4jBeKJkGRHWSQNBpi8VefiA5f-YrEZRMUusvoDHKPRRXxFsrlSG-Fn_XmpvEBEE1hn9pAw"
     }
   ],
   "revoked": [
