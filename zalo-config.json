@@ -179,6 +179,11 @@
       "hwid": "AD09-DA7F-FA91-0872",
       "expiresAt": 1799658819150,
       "signature": "QEKVwNT_iTFcV6HMiWF30NKG6ayJr6TdSSIdfJL7iSx2rv80qfoFeZhYRzv72HBkyJj-SWUn5fMmXMzTRjyPCA"
+    },
+    {
+      "hwid": "8FF1-9B2B-0089-4EF2",
+      "expiresAt": 1802344359713,
+      "signature": "qOMWjuyWF0SZU-AG-LYqb_P0q1b4OhZyNw1XjtlIfbF6SW0TlrNjeKmAzZi6G35T6gb9IVHaCi427KHzV65MDw"
     }
   ],
   "revoked": [
