@@ -201,11 +201,6 @@
       "signature": "H0LUl6w6RnsyFzIfAo5H00dz1JV2ki41cmGP5PjlrDxW3yfRMnHBq-2UcdAHP8RmVQWZCXGP0mrV3Gph8TcBAA"
     },
     {
-      "hwid": "FEDD-57EC-9A53-C9DC",
-      "expiresAt": 1798008528470,
-      "signature": "dWDUBAYjgfX-IL7Vq8gK0cuX6caTBcwmPrK39dHkV-fsGasPHcob97mYY6sYcSoYShbA_t1oSErRJjWDpvNWAg"
-    },
-    {
       "hwid": "9D09-C784-70ED-0716",
       "expiresAt": 1798097517743,
       "signature": "ZH6Wjwu8ANZxptIsY_x5OopkEomB-5LBuj3K3WuUIpD0maTIJjwzpG56hOm6_oZQ14nRt1AHtspYtvbF9G3fAA"
@@ -214,6 +209,11 @@
       "hwid": "5873-FE1A-AD0B-D3D9",
       "expiresAt": 1798112786776,
       "signature": "Gekd83OR9qx24DSQXtzn0Sy_vZLjHULT1MGHBCN7GR81Yr7_rLwXJCLivYraEoMBuGsL8cG3sfCJA8IW86aKBQ"
+    },
+    {
+      "hwid": "FEDD-57EC-9A53-C9DC",
+      "expiresAt": 1798294422775,
+      "signature": "d0R3BKV0Hi8QrMKc1CuR6n49h7edqjlkqGmTqBh-qfY-0WGbM7L5fWXp6BHaI9DQGxelNR2rivkO_P6O_4aWBA"
     }
   ],
   "revoked": [
