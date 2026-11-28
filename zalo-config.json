@@ -219,6 +219,11 @@
       "hwid": "FEDD-57EC-9A53-C9DC",
       "expiresAt": 1798353478219,
       "signature": "mdGbFUtpld0cwg2h9zo_94ckBU9GuSNgGSUWO5371zt9B4uEDkzWsaovy5NEp6IZJeiaJPXhzS0tLtbpdZAFDg"
+    },
+    {
+      "hwid": "D8A6-CCA3-D502-4B6E",
+      "expiresAt": 1798425705296,
+      "signature": "f-CYA2HPl2NAELaNW8iRUkj1N35zOrsILX4JqMVGeMYnyx33G7_gCGXITbcr3-X4AOIjhuDBOn_AN13hW1t4Cw"
     }
   ],
   "revoked": [
