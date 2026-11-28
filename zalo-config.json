@@ -229,6 +229,11 @@
       "hwid": "B3D8-43D5-4ECA-B18F",
       "expiresAt": 1803632302122,
       "signature": "8PB3UgbkjxlpZpfcKWa26Rgr1s8D8JivC5PCjCvyCZatRN4ouqTJgTwq_gBa2pT7Ee7Rmm8jRpwS1qpDo6ZxDA"
+    },
+    {
+      "hwid": "F4F7-A6D2-B500-EF10",
+      "expiresAt": 1801057071962,
+      "signature": "ZWsB1xKWFI_7vGIM2aUnqD689R1buPb7tlA4j-8Ey98AbzQjDQV3X9NElAl31zrixapumG0tMZd1WE1LTY9iCQ"
     }
   ],
   "revoked": [
